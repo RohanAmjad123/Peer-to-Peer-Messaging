@@ -1,0 +1,10 @@
+*.class
+*.log
+*.mp4
+*.mp4.*
+*.pdf
+*.vpp
+*.vpp.*
+.DS_Store
+.vscode
+javadoc/
